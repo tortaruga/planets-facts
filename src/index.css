@@ -43,14 +43,6 @@ nav {
   padding: 1rem;
 }
 
-.error-msg {
-  text-align: center;
-  min-height: 80vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
 .planet-links:not(.mobile) {
   display: none;
   gap: 1rem;
@@ -136,6 +128,8 @@ nav {
   flex-grow: 1;
   gap: 1rem;
   border-radius: .2rem;
+  background-color: #f5f5f524;
+  
 
   p {
     text-transform: uppercase;
@@ -151,10 +145,10 @@ footer {
   font-size: .8rem;
   text-align: center;
   a {
-    color: royalblue;
+    color: palegoldenrod;
     text-decoration: none;
     &:hover {
-      color: cadetblue;
+      color:coral;
     }
   }
 }
