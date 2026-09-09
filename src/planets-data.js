@@ -26,7 +26,7 @@ export default {
         yearLength: '365 days',
         rotationTime: '23.934h',
         diameter: '12,756',
-        img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/800px-The_Earth_seen_from_Apollo_17.jpg'
+        img: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/960px-The_Blue_Marble%2C_AS17-148-22727.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail'
     },
 
     mars: {
